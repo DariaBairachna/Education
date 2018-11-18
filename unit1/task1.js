@@ -7,10 +7,10 @@ var user = {
     age: 15,
     name: "Vasilii"
 };
-
 alert(num);
 alert(str);
 alert(boolType);
 alert(myKnolege);
 alert(Knolege);
 alert(user);
+
